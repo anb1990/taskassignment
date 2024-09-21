@@ -1,0 +1,23 @@
+version: '2.2'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: taskassignment
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: taskassignment
+      SERVICE_TAGS: dev
+    working_dir: /var/www/taskassignment
+    volumes:
+      - .:/var/www/taskassignment
+    networks:
+      - laravel
+
+
+
+networks:
+  laravel:
+    driver: bridge

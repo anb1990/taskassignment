@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/tasksassignment/database/factories/ProjectFactory.php</file>
+            <file>file:/var/www/tasksassignment/routes/web.php</file>
+            <file>file:/var/www/tasksassignment/app/Repositories/Interfaces/TaskRepositoryInterface.php</file>
+            <file>file:/var/www/tasksassignment/app/Services/LoggingService.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/task/update.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Models/Project.php</file>
+            <file>file:/var/www/tasksassignment/app/Providers/AppServiceProvider.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/project/update.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Policies/ProjectPolicy.php</file>
+            <file>file:/var/www/tasksassignment/app/Models/Task.php</file>
+            <file>file:/var/www/tasksassignment/config/auth.php</file>
+            <file>file:/var/www/tasksassignment/app/Services/ProjectService.php</file>
+            <file>file:/var/www/tasksassignment/tests/Unit/ProjectControllerTest.php</file>
+            <file>file:/var/www/tasksassignment/config/app.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/layouts/datatable.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Controllers/Api/TaskController.php</file>
+            <file>file:/var/www/tasksassignment/bootstrap/providers.php</file>
+            <file>file:/var/www/tasksassignment/routes/api.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Controllers/AuthController.php</file>
+            <file>file:/var/www/tasksassignment/app/Providers/LoggingServiceProvider.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/project/store.blade.php</file>
+            <file>file:/var/www/tasksassignment/database/factories/UserFactory.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/project/index.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Controllers/Api/ProjectController.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/project/destroy.blade.php</file>
+            <file>file:/var/www/tasksassignment/.env</file>
+            <file>file:/var/www/tasksassignment/app/Http/Controllers/Web/WebProjectController.php</file>
+            <file>file:/var/www/tasksassignment/bootstrap/app.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/project/show.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Models/User.php</file>
+            <file>file:/var/www/tasksassignment/app/Repositories/Implementations/TaskRepository.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Middleware/RedirectIfNotAuthenticated.php</file>
+            <file>file:/var/www/tasksassignment/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/task/store.blade.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/task/destroy.blade.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/auth/login.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Repositories/Interfaces/ProjectRepositoryInterface.php</file>
+            <file>file:/var/www/tasksassignment/app/Policies/TaskPolicy.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/auth/register.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Http/Controllers/Web/WebTaskController.php</file>
+            <file>file:/var/www/tasksassignment/app/Repositories/Implementations/ProjectRepository.php</file>
+            <file>file:/var/www/tasksassignment/resources/views/layouts/general.blade.php</file>
+            <file>file:/var/www/tasksassignment/app/Services/TaskService.php</file>
+            <file>file:/var/www/tasksassignment/app/Providers/RouteServiceProvider.php</file>
+        </group>
+    </open-files>
+</project-private>
